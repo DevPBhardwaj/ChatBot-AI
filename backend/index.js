@@ -15,7 +15,7 @@ app.use(cors({
 // OpenAI Configuration
 const configuration = new Configuration({
   organization: "org-JMAhtwl2LieReTwSKlZt4tZd",
-  apiKey: "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",
+  // apiKey: "",
 });
 const openai = new OpenAIApi(configuration);
 
@@ -45,3 +45,56 @@ app.post("/", async (request, response) => {
 app.listen(port, () => {
   console.log(`listening on port ${port}`);
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+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
